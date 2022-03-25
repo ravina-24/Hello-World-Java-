@@ -1,3 +1,3 @@
-<h1> Hello, Welcome to Simple DevOps Project !!   </h1>
-<h2> Deploying java application on ubuntu </h2>
-<h2> Glad to see you here </h2>
+<h1> Hello, Welcome to Simple Jenkins Pipeline  </h1>
+<h2> Deploying java application</h2>
+<h2> Glad to see you here,Thanku! </h2>
